@@ -1,1 +1,2 @@
-# Parallel-K-Means
+# Parallel K-Means
+A parallel implementation of K-Means algorithm using MPI
