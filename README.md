@@ -4,4 +4,4 @@ A parallel implementation of K-Means algorithm using MPI
 
 ## Schema
 
-![Screenshot](Schema.png)
+![Screenshot](schema.png)
