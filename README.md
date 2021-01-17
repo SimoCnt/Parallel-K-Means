@@ -2,6 +2,6 @@
 A parallel implementation of K-Means algorithm using MPI
 
 
-##Schema
+## Schema
 
 ![Screenshot](Schema.png)
