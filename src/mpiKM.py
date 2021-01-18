@@ -138,7 +138,6 @@ if __name__=='__main__':
             flag=False
         else:
             initial_centroid = updated_centroid
-        comm.Barrier()
-
+        
     if rank == 0:
         results(mpi_cluster)
